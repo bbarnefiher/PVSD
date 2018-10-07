@@ -11,6 +11,7 @@ public class Student {
         this.name = name;
         this.GPA = GPA;
         numOfStudents++;
+
     }
 
 
